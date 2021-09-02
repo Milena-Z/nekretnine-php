@@ -18,6 +18,6 @@
     }
  
     $template -> categories = $realestate -> getCategories();
-
+    
     echo $template;
 ?>
